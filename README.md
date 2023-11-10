@@ -2,15 +2,15 @@
 
 🔍 I've come across an exceptional document titled "Awesome Azure Penetration Testing" and it's packed with insights that cybersecurity professionals will find invaluable.
 
-The document offers a comprehensive guide to help you navigate the complex landscape of Azure cloud security with ease. Here's a sneak peek at what's inside:
+# The document offers a comprehensive guide to help you navigate the complex landscape of Azure cloud security with ease. Here's a sneak peek at what's inside:
 
-# 🛠 Tools: The best tools for the trade to make your life easier.
+#🛠 Tools: The best tools for the trade to make your life easier.
 
-# 🔎 Enumeration: How to identify potential targets and vulnerabilities.
+🔎 Enumeration: How to identify potential targets and vulnerabilities.
+ 
+ 📊 Information Gathering: Techniques to gather critical data stealthily.
 
-# 📊 Information Gathering: Techniques to gather critical data stealthily.
-
-# 👣 Lateral Movement: Strategies for moving through compromised networks.
+👣 Lateral Movement: Strategies for moving through compromised networks.
 
 💥 Exploitation: Methods for exploiting found vulnerabilities.
 
