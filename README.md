@@ -33,3 +33,5 @@ The document offers a comprehensive guide to help you navigate the complex lands
 Whether you're a beginner or a seasoned expert, this document is a treasure trove of information that can help safeguard your Azure environments against potential threats.
 
 Stay ahead of the curve and enhance your cybersecurity arsenal! 🛡️
+
+https://github.com/manikanta-suru/Awesome-Azure-Penetration-Testing.git
